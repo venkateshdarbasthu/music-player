@@ -25,50 +25,50 @@ const music_list = [
         img : 'https://ecsmedia.pl/c/unholy-b-iext120538010.jpg',
         name : 'UNHOLY',
         artist : 'Sam Smith',
-        music : 'Unholy.mp3 '
+        music : 'music/Unholy.mp3 '
     },
     {
         img : 'https://i1.sndcdn.com/artworks-000173935001-g1x896-t500x500.jpg',
         name : 'CLOSER',
         artist : 'One direction',
-        music : 'Closer.mp3'
+        music : 'music/Closer.mp3'
     },
     {
         img : 'https://images.hindustantimes.com/tech/img/2022/10/23/960x540/ebf245f4-3bf8-11ed-8cba-ba7ad76ffd07_1666513827508_1666513827508_1666513852203_1666513852203.jpg',
         name : 'KESARIYA',
         artist : 'Arijith singh',
-        music : 'Kesariya.mp3 '
+        music : 'music/Kesariya.mp3 '
     },
     {
         img : 'https://www.bollywoodhungama.com/wp-content/uploads/2022/02/Shantanu-Maheshwari-on-Gangubai-Kathiawadi.jpg',
         name : 'MERI JAAN',
         artist : 'Neeti mohan',
-        music : 'merijaan.mp3 '
+        music : 'music/merijaan.mp3 '
     },
     {
         img : 'https://cdn.mos.cms.futurecdn.net/N6L3vkePwHn7WLEhikEAQd.jpg',
         name : 'IN BETWEEN',
         artist : 'scotty mccreery',
-        music : 'inbetween.mp3 '
+        music : 'music/inbetween.mp3 '
     },
     
     {
         img : 'https://gumlet.assettype.com/freepressjournal/2022-02/69ddd1ea-157e-455c-9ed8-54ec67387e64/Screenshot_2022_02_13_at_6_13_55_AM.png?format=webp&w=480&dpr=2.6',
         name : 'DOOBEY',
         artist : 'Lothika',
-        music : 'Doobey.mp3 '
+        music : 'music/Doobey.mp3 '
     },
     {
         img : 'https://upload.wikimedia.org/wikipedia/en/f/f9/Let-her-go-by-passenger.jpg',
         name : 'LET HER GO',
         artist : 'Passenger',
-        music : 'Passenger.mp3'
+        music : 'music/Passenger.mp3'
     },
     {
         img : 'https://wallpaperaccess.com/full/7988314.jpg',
         name : 'DARSHANA',
         artist : 'darshana rajendran',
-        music : 'Darshana.mp3'
+        music : 'music/Darshana.mp3'
     },
     ];
 
